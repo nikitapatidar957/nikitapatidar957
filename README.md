@@ -31,8 +31,8 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,postgresql,mongodb,git,github,jupyter,vscode" />
 
   <!-- Custom icons (not supported by skillicons.dev) -->
-<img src="./assets/agentic-ai.svg" alt="Agentic AI" width="40" height="40" />
-<img src="./assets/genllm.svg" alt="GenLLM" width="40" height="40" />
+<img src="./agentic_ai.png" alt="Agentic AI" width="40" height="40" />
+<img src="./deeplearning.png" alt="GenLLM" width="40" height="40" />
 
 </p>
 
