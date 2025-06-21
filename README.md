@@ -18,16 +18,16 @@
 </p>
 
 - 👀 **I’m passionate about**: Generative AI, Deep Learning, NLP, and Data Science  
-- 🌱 **I’m currently learning**: LLM fine-tuning, MLOps, AI model deployment  
+- 🌱 **I’m currently learning**: Agentic AI , LLM fine-tuning, MLOps, AI model deployment  
 - 💞️ **I’m looking to collaborate on**: AI-driven solutions, ML projects, and open-source contributions  
-- 📫 **How to reach me**: [LinkedIn](https://linkedin.com/in/yourname) | [Email](mailto:your.email@gmail.com)  
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/nikita-patidar-70a46a205/) | [Email](mailto:nikitapatidar957@gmail.com)  
 - ⚡ **Fun fact**: I love breaking down complex AI topics into simple insights!
 
 ---
 
 ## 🚀 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,scikit-learn,fastapi,postgresql,mongodb,aws,azure,git,github,docker,kubernetes,jupyter,vscode" />
+  <img src="https://skillicons.dev/icons?i=python,deeplearnin,GenLLM,Agentic AI, tensorflow,pytorch,scikit-learn,fastapi,postgresql,mongodb,git,github,jupyter,vscode" />
 </p>
 
 ---
@@ -39,23 +39,20 @@
   <img src="https://img.shields.io/badge/Interpretable_AI-%23FFD700?style=for-the-badge" />
 </p>
 
-- 🔥 **Fine-tuning Large Language Models (LLMs)**
-- 🏗️ **Scaling AI models for production**
-- 🌍 **MLOps & Cloud-based AI deployment**
 - 📊 **Interpretable AI & Explainable Machine Learning**
+- 🌍 **Deep Learning and NLP**
+- 🏗️ **Gen AI and Agentic AI**
+- 🔥 **Fine-tuning Large Language Models (LLMs)**
 
 ---
 
 ## 🔗 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/yourname" target="_blank"> 
+  <a href="https://www.linkedin.com/in/nikita-patidar-70a46a205/" target="_blank"> 
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a> 
-  <a href="mailto:your.email@gmail.com"> 
+  <a href="mailto:nikitapatidar957@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a> 
-  <a href="https://twitter.com/yourhandle" target="_blank"> 
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
 </p>
 
@@ -96,11 +93,5 @@
 
 ---
 
-## 🐍 Animated Contribution Snake
-<p align="center"> 
-  <img src="https://github.com/nikitapatidar957/nikitapatidar957/raw/output/github-contribution-grid-snake.svg" />
-</p>
-
----
 
 ✨ **Designed & Built with ❤️ by Nikita Patidar** ✨
