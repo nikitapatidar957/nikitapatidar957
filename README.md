@@ -31,9 +31,9 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,fastapi,postgresql,mongodb,git,github,jupyter,vscode" />
 
   <!-- Custom icons (not supported by skillicons.dev) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-learn" width="40" height="40" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ai/ai-original.svg" alt="Agentic AI" width="40" height="40" /> <!-- example placeholder -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ai/ai-original.svg" alt="GenLLM" width="40" height="40" /> <!-- example placeholder -->
+<img src="./assets/agentic-ai.svg" alt="Agentic AI" width="40" height="40" />
+<img src="./assets/genllm.svg" alt="GenLLM" width="40" height="40" />
+
 </p>
 
 ---
